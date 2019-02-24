@@ -1,0 +1,19 @@
+.logo {
+    width: 15%;
+    height: 15%;
+}
+
+.nav-item {
+    font-family: 'Roboto-bold', sans-serif;;
+    text-transform: uppercase;
+    color: $md-black;
+    text-decoration: none;
+
+    &:hover, &:active {
+        color: $grrrls-blue;
+    }
+}
+
+.header {
+    margin: 0 10% 5% 10%;
+}

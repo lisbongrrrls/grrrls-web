@@ -1,0 +1,19 @@
+
+@import "./colors";
+@import "./variables";
+@import "./helpers";
+@import "./pages/index";
+@import "./components/index";
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+}
+
+.grrrls-page {
+  margin: 2% 10% 2% 10%;
+}
